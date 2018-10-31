@@ -6,7 +6,7 @@
 # catalog-version 5
 Name:		texlive-textfit
 Version:	5
-Release:	10
+Release:	11
 Summary:	Fit text to a desired size
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/textfit
