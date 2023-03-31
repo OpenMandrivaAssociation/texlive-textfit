@@ -1,6 +1,6 @@
 Name:		texlive-textfit
 Version:	20591
-Release:	1
+Release:	2
 Summary:	Fit text to a desired size
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/textfit
