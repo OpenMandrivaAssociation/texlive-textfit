@@ -3,7 +3,7 @@ Version:	20591
 Release:	2
 Summary:	Fit text to a desired size
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/textfit
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/textfit
 License:	LPPL1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/textfit.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/textfit.doc.r%{version}.tar.xz
